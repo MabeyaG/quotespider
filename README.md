@@ -1,15 +1,15 @@
-# 🕷️ Legit Scrapy Project — Quotes Spider
+#  Legit Scrapy Project — Quotes Spider
 
 A Scrapy-based web crawler to scrape quotes from [quotes.toscrape.com](https://quotes.toscrape.com/).
 
-## 🎯 Objective
+##  Objective
 
 - Crawl quote text, author, tags, and author link.
 - Handle multiple pages (pagination).
 - Export data as JSON or CSV.
 - Mimic a real browser to avoid getting blocked.
 
-## 🚀 Usage
+##  Usage
 
 1. Install Scrapy:
    ```
@@ -24,7 +24,7 @@ Output files:
 - `quotes.json`  
 - `quotes.csv`  
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 quotes/
@@ -41,7 +41,7 @@ quotes/
 └── README.md
 ```
 
-## 🌍 Target Site
+## Target Site
 Scrapes quotes from:
 
 [https://quotes.toscrape.com/](https://quotes.toscrape.com/)
